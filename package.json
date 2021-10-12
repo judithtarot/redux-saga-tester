@@ -1,6 +1,6 @@
 {
-  "name": "redux-saga-tester",
-  "version": "1.0.1",
+  "name": "redux-saga-tester-patched",
+  "version": "1.0.2",
   "description": "Full redux environment testing helper for redux-saga",
   "main": "dist/SagaTester.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wix/redux-saga-tester.git"
+    "url": "git+https://github.com/jlebzelter/redux-saga-tester-patched.git"
   },
   "keywords": [
     "redux-saga",
@@ -28,9 +28,9 @@
   "author": "Guy Benron",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wix/redux-saga-tester/issues"
+    "url": "https://github.com/jlebzelter/redux-saga-tester-patched/issues"
   },
-  "homepage": "https://github.com/wix/redux-saga-tester#readme",
+  "homepage": "https://github.com/jlebzelter/redux-saga-tester-patched#readme",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-cli": "^6.24.1",
